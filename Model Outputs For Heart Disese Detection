@@ -1,0 +1,28 @@
+Logistic Regression Model ## Prediction and Actual doesn't match......So it is not selected
+Precition: 1., 0., 1., 0.
+Actual: 1.0, 0.0, 0.0, 0.0
+    
+    
+    
+    
+Random Foerst Classifier ## Prediction and Actual Data Matches....But more accurate than Decision...So it is Selected as the best model..
+                         ## Because Random Tree breaks the dataset into numerous DecisionTrees and Then give us the most accurate data..
+Prediction: 1., 0., 0., 0.
+Actual: 1.0, 0.0, 0.0, 0.0
+Scores: [0.65759595 0.46499055 0.32879797 0.36760731 0.61512469 0.52704628
+ 0.372678   0.64549722 0.33333333 0.47140452]
+Mean: 0.47840758265205324
+Standard Deviation: 0.12173692354710011
+Therefore from Mean and standard Deviation We can select Random Forest Classifier Wholeheartedly....
+
+
+
+
+
+Decision Tree Classifier #Prediction and Actual Data MAtches...So it may be selected
+Prediction: 1., 0., 0., 0.
+Actual: 1.0, 0.0, 0.0, 0.0
+Scores: [0.69748583 0.54524976 0.51987524 0.5694948  0.63671454 0.57735027
+ 0.5527708  0.60092521 0.57735027 0.60092521]
+Mean: 0.5878141933524217
+Standard Deviation: 0.04793012535206494
